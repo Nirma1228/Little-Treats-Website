@@ -4,9 +4,9 @@ Welcome to **Little Treat**, a bakery-themed static website designed to showcase
 
  Features
 
--  Home, About, Products, and Customer Testimonials sections
-- Responsive design using CSS Grid and Flexbox
--  Interactive search bar toggle (JavaScript)
--  Product cards with images, prices, and "Add to Cart" buttons
--  Mobile-friendly layout with hamburger menu icon
--  Stylish reviews with star ratings
+-  Home, About, Products, and Customer Testimonials sections.
+- Responsive design using CSS Grid and Flexbox.
+-  Interactive search bar toggle (JavaScript).
+-  Product cards with images, prices, and "Add to Cart" buttons.
+-  Mobile-friendly layout with hamburger menu icon.
+-  Stylish reviews with star ratings.
